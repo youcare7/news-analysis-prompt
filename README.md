@@ -31,7 +31,7 @@
 ### 方式一：直接复制使用
 复制 [`prompts.md`](./prompts.md) 中的完整内容，粘贴到任意AI对话工具（ChatGPT、Claude、DeepSeek等），再附上你想分析的新闻原文/链接即可。
 
-## 方式二：JSON格式调用
+### 方式二：JSON格式调用
 如果需要给工具/API调用，可以使用结构化的 `prompts.json` 文件：
 
 ```json
