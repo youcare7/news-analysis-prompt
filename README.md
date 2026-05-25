@@ -2,8 +2,8 @@
 # 🧠 深度新闻分析 Prompt
 深度新闻分析 Prompt - 宏观透视 + 个体生存行动指南
 
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](./LICENSE)
-[![Prompts Available](https://img.shields.io/badge/Prompts-1-blue)](./prompts.md)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![Prompts](https://img.shields.io/badge/Prompts-1-blue)](./prompts.md)
 
 > 基于「倡导-缺失」反向透视法 · 让AI帮你看穿新闻表象、找到个体出路的分析框架。
 
