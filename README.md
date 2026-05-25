@@ -43,7 +43,7 @@ markdown
   "title": "深度新闻分析",
   "description": "基于倡导-缺失反向透视法的新闻分析框架",
   "prompt": "【此处粘贴你在prompts.md中定义的完整Prompt文本】"
-}
+}```
  
  
  
